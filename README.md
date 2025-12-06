@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 <p1>👋Hi, I'm Dhruv,
-🧑‍🎓a CSE student who works with HTML, CSS, Python, C, C++, and Linux
-🧑‍💻Interested in cybersecurity, Blender, and building useful digital experiences.
+🧑‍🎓a CSE student who works with HTML, CSS, Python, C, C++, and Linux <br>
+🧑‍💻Interested in cybersecurity, Blender, and building useful digital experiences. <br>
 🥷Currently sharpening my coding skills and working toward becoming a strong developer with a global impact.</p1>
 
 ###
